@@ -1,4 +1,4 @@
-# 🏆 Curiosidades de Tecnologia
+# Curiosidades de Tecnologia
 
 O seu guia rápido e dinâmico sobre a história do ecossistema Tech e do sistema Android, direto no seu navegador!
 
@@ -19,10 +19,7 @@ O projeto foi desenvolvido focado no ecossistema Front-End, utilizando as tecnol
 * **HTML5:** Estruturação semântica e acessibilidade da página através de tags modernas.
 * **CSS3:** Estilização, design responsivo, gerenciamento de layouts e organização visual.
 
-## 📸 Demonstração
-*(Exemplo da aplicação em funcionamento ou captura de tela do site responsivo)*
-
-## 🎮 Como Usar
+##🛠️ Como Usar
 1. Acesse o menu de navegação no topo da página.
 2. Explore o artigo principal para conhecer a história do mascote do Android.
 3. Consulte a seção especial no final da página para conferir a ordem alfabética das versões do sistema.
