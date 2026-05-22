@@ -28,5 +28,5 @@ O projeto foi desenvolvido focado no ecossistema Front-End, utilizando as tecnol
 3. Consulte a seção especial no final da página para conferir a ordem alfabética das versões do sistema.
 
 ## 🔗 Links Úteis
-* 🌐 **Demonstração Online:**
-* 🐙 **Repositório do Projeto:**
+* 🌐 **Demonstração Online:** https://lorranlimac.github.io/Curiosidades-de-Tecnologia---sistema-Android-/
+* 🐙 **Repositório do Projeto:** https://github.com/LorranLimaC/Curiosidades-de-Tecnologia---sistema-Android-
