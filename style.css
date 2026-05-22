@@ -1,0 +1,130 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'idroid';
+    src: url('fontes/idroid.otf') format('opentype'); 
+    font-weight: normal;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    background-color: wheat;
+    font-family: sans-serif;
+    
+}
+header{
+    background-image: linear-gradient( to top , rgb(0, 88, 0) , rgb(1, 182, 1));   
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.425); 
+}
+
+header > .titulo{
+    color: white;
+    padding: 5px;
+    
+}
+header >h2{
+    color: white;
+    font-size: 12px;
+    padding-bottom: 5px;
+    
+    
+}
+
+.menu{
+    
+    color: black;
+    display:flex;
+    text-align: left;   
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    padding: 0px 5px;
+}
+.menu a:hover{
+    background-color: rgba(2, 146, 2, 0.486);
+    color: white;
+    border-radius: 5px 5px 0px 0px;
+    padding: 0px 5px;
+}
+main{
+    background-color: white;
+    margin: auto;
+    max-width: 800px;
+    min-width: 280px;
+    padding-bottom: 10px;
+    border-radius: 0px 0px 5px 5px;
+    
+}
+article{
+    text-decoration: none;
+    padding: 0px 5px    
+    
+    
+}
+
+.titulo{
+    font-family: 'idroid';
+    color: rgb(76, 150, 3);
+    padding: 5px;
+    
+}
+.subtitulo{
+    background-image: linear-gradient(to right , green ,white);
+    text-align: left;
+    padding: 5px;
+    
+}
+p{
+    text-indent: 20px;
+    text-align: left;
+    padding: 10px;
+    
+}
+img{
+    max-width: 100%;
+}
+.banner{
+    background-color: rgb(77, 182, 77);
+    border-radius: 5px;
+    margin: 5px;
+
+    
+}
+.banner-titulo{
+    background-color: rgb(2, 83, 2);
+    border-radius: 5px 5px 0px 0px;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    text-indent: 0px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.425); 
+}
+.banner-conteudo{
+    list-style: none;
+    columns: 2;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.banner-conteudo li::before{
+    content: '✔';
+    padding: 0px 8px;
+}
+.banner-rodape{
+    background-color: rgb(2, 83, 2);
+    border-radius: 0px 0px 5px 5px;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    text-indent: 0px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.425); 
+}
+
+footer{
+    background-color: green;
+    margin-top: 15px;
+}
